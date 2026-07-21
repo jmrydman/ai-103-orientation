@@ -15,11 +15,6 @@ timestamp: 2026-07-20T00:00:00Z
 
 # AI-103 Course Orientation
 
-> [!quote]
-> A one-page map of **Exam AI-103: Develop AI apps and agents on Azure** — the exam, the five
-> skill domains, the five hands-on lab repos, and the vocabulary the current exam grades on.
-> Every Azure claim links to Microsoft Learn so you can re-check it as the surface keeps changing.
-
 This is a study aid, not official Microsoft courseware. The authoritative sources are
 always the linked Learn pages.
 
