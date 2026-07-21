@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+# Internal AI context — loads when Claude starts in this dir; not for the public repo.
+CLAUDE.md
+.replit
+replit.nix
